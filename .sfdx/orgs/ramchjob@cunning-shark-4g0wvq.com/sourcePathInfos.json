@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf",
+        {
+            "state": "n",
+            "sourcePath": "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546392285885,
+            "changeTime": 1546392285885,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546392285886,
+            "changeTime": 1546392285886,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546392285886,
+            "changeTime": 1546392285886,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\work\\rythmos\\projects\\sf-learn\\org.ram.sf\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546392285886,
+            "changeTime": 1546392285886,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\work\\rythmos\\projects\\sf-learn",
+        {
+            "state": "n",
+            "sourcePath": "C:\\work\\rythmos\\projects\\sf-learn",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1546392367154,
+            "changeTime": 1546392367154,
+            "contentHash": "ee6e60ddcfdf033bd359df00b696bbcfbb043685",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
